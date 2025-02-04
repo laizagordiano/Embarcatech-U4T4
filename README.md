@@ -2,6 +2,8 @@
 
 Este projeto visa o controle interativo de uma matriz de LEDs WS2812 utilizando botões, com implementação de interrupções, debouncing e controle de LEDs comuns. Ele utiliza uma placa **BitDogLab** e é baseado em um microcontrolador **Raspberry Pi Pico**.
 
+[Link do vídeo](https://drive.google.com/file/d/129xFUrEsMuWXTZnQjJmMI5xUZ_iIa2UA/view?usp=sharing)
+
 ## Requisitos do Projeto
 
 O projeto deve seguir os seguintes requisitos:
